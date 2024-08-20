@@ -1,7 +1,7 @@
 public class TaskFour {
     public static void main(String[] args) {
 
-        for (int count = 1; count <= 30; count+=5) {
+        for (int count = 1; count <= 10; count+=1) {
             
 		if (count % 4 == 0) System.out.print(count + " ");
         }
